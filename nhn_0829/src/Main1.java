@@ -1,5 +1,6 @@
 public class Main1 {
 
+
     public static void main(String[] args) {
         int random1 =(int)(Math.random()*6)+1;
         int random2 =(int)(Math.random()*6)+1;
