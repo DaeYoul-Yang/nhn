@@ -7,5 +7,6 @@ public class Dice {
         return number;
     }
 
+
     private int number;
 }
