@@ -203,18 +203,13 @@ WHERE
               FROM Flight
               WHERE Arrival = '샌프란시스코'));
 ```
+<img src ="./image/imagesql1.png">
+<img src ="./image/sqlimage2.png">
+<img src ="./image/sqlimage3.png">
+<img src ="./image/sqlimage4.png">
+<img src ="./image/sqlimage5.png">
 
-![스크린샷 2023-10-19 오후 1.42.56.png](SQL%20ab9297721f434f65b23e19f804bf0124/%25E1%2584%2589%25E1%2585%25B3%25E1%2584%258F%25E1%2585%25B3%25E1%2584%2585%25E1%2585%25B5%25E1%2586%25AB%25E1%2584%2589%25E1%2585%25A3%25E1%2586%25BA_2023-10-19_%25E1%2584%258B%25E1%2585%25A9%25E1%2584%2592%25E1%2585%25AE_1.42.56.png)
 
-![스크린샷 2023-10-19 오후 1.43.11.png](SQL%20ab9297721f434f65b23e19f804bf0124/%25E1%2584%2589%25E1%2585%25B3%25E1%2584%258F%25E1%2585%25B3%25E1%2584%2585%25E1%2585%25B5%25E1%2586%25AB%25E1%2584%2589%25E1%2585%25A3%25E1%2586%25BA_2023-10-19_%25E1%2584%258B%25E1%2585%25A9%25E1%2584%2592%25E1%2585%25AE_1.43.11.png)
-
-![Untitled](SQL%20ab9297721f434f65b23e19f804bf0124/Untitled.png)
-
-![Untitled](SQL%20ab9297721f434f65b23e19f804bf0124/Untitled%201.png)
-
-![Untitled](SQL%20ab9297721f434f65b23e19f804bf0124/Untitled%202.png)
-
-![Untitled](SQL%20ab9297721f434f65b23e19f804bf0124/Untitled%203.png)
 
 서브쿼리 → Where절에서 셀렉션 연산의 값을 산출하기 위한 질의
 
