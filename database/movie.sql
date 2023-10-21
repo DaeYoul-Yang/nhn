@@ -502,7 +502,7 @@ order by count(Location) desc
 LIMIT 1;
 
 #33 첫 번째 아카데미 영화제가 열린지 올해 기준으로 몇년이 지났나요?
-select 2023 - Year + 1 AS difference
+select 2023 - Year AS difference
 from awardyear
 order by Year
 LIMIT 1;
